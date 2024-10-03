@@ -1,3 +1,5 @@
+//codigo onde o usuario digita idade, altura, peso, cor dos olhos e dos cabelos e no final conta a quantidade de pessoas com mais de 50 anos e peso inferior a 60kg, a média das idades das pessoas com menos de 1,50, a porcentagem de pessoas com olhos azuis e a quantidade de pessoas ruivas que não têm olhos azuis
+
 programa {
   funcao inicio() {
     
@@ -48,8 +50,8 @@ programa {
     }
 
     escreva("\n", "Quantidade de pessoas com mais de 50 anos e peso inferior a 60kg: ", contarid)
-    escreva("\n", "A m�dia das idades das pessoas com menos de 1,50: ", media / contaral)
+    escreva("\n", "A média das idades das pessoas com menos de 1,50: ", media / contaral)
     escreva("\n", "A porcentagem de pessoas com olhos azuis: ", (100 * contarolho) / 20, "%")
-    escreva("\n", "Quantidade de pessoas ruivas que n�o t�m olhos azuis: ", contarcabelo)
+    escreva("\n", "Quantidade de pessoas ruivas que não têm olhos azuis: ", contarcabelo)
   }
 }
