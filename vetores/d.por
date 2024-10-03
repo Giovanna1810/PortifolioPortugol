@@ -1,3 +1,5 @@
+//codigo para mostrar se um aluno foi aprovado ou nao
+
 programa
 {
 	funcao inicio ()
