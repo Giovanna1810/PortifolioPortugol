@@ -1,6 +1,9 @@
 programa
 {
-	// desenvolvido por Diogo e Giovanna no dia 02.05.2024//
+	
+// desenvolvido por Diogo e Giovanna no dia 02.05.2024//
+
+//codigo que conta quantos salarios minimos voce tem
 	funcao inicio()
 	{
 		real salario
