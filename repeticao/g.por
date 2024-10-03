@@ -1,10 +1,12 @@
+//codigo com laco para contar os numeros pares e impares
+
 programa {
   funcao inicio() {
 
     inteiro par, num, impar, cont
     cont = 0
 
-    escreva("Digite um número: ")
+    escreva("Digite um nÃºmero: ")
       leia(num)
 
     para(inteiro i = 1 ;i <= num; i++ )
@@ -12,12 +14,12 @@ programa {
 
       se (i %2 == 0  )
       {
-         escreva("Os números pares são: ", i, "\n")
+         escreva("Os nÃºmeros pares sÃ£o: ", i, "\n")
       }
       se (i %2 != 0)
       {
        
-       escreva("Os números impares são: ", i, "\n")
+       escreva("Os nÃºmeros impares sÃ£o: ", i, "\n")
       }
 
     }
