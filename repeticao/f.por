@@ -1,3 +1,5 @@
+//codigo que o user digita um numero 10 vezes e no final conta quantos n√∫emros esta no intervalo de 30 a 90
+
 programa {
   funcao inicio() {
     
@@ -6,7 +8,7 @@ programa {
 
     para(inteiro i = 0;i < 10; i++ )
     {
-      escreva("Digite um n˙mero: ")
+      escreva("Digite um n√∫mero: ")
       leia(num)
 
       se (num >= 30 e num <= 90  )
@@ -15,7 +17,7 @@ programa {
       }
 
     }
-    escreva("Quantidade entre o intervalo de 30 a 90 È: ", cont)
+    escreva("Quantidade entre o intervalo de 30 a 90 √©: ", cont)
 
   }
 }
