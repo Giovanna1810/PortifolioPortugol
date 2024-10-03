@@ -1,4 +1,4 @@
-
+//codigo que o user entra com seu sexo
 programa {
   funcao inicio() {
     
@@ -7,11 +7,11 @@ programa {
     leia(sexo)
     se (sexo == 'M' ou sexo == 'm' ou sexo == 'F' ou sexo == 'f')
     {
-      escreva(" Sexo v·lido.")
+      escreva(" Sexo v√°lido.")
     }
     senao
     {
-      escreva(" Sexo inv·lido.")
+      escreva(" Sexo inv√°lido.")
     }
   }
 }
