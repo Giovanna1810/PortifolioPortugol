@@ -1,4 +1,4 @@
-//Codigo para somar dois números que o usuario entrar
+//Codigo para somar dois números que o usuario entrar utilizando vetor
 programa
 {
 	
