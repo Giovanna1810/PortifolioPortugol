@@ -1,4 +1,4 @@
-//codigo para mostrar se um aluno foi aprovado ou nao
+//codigo para mostrar se um aluno foi aprovado ou nao usando vetor
 
 programa
 {
