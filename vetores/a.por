@@ -1,4 +1,4 @@
-//Desenvolvido por Diogo e Giovanna
+//Codigo para somar dois números que o usuario entrar
 programa
 {
 	
