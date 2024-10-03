@@ -1,4 +1,4 @@
-//codigo para mostar o numero maior, menor, média, quantidade maior e menor que a media
+//codigo para mostar o numero maior, menor, média, quantidade maior e menor que a media utilizando vetor
 
 programa
 {
