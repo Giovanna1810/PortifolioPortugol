@@ -1,3 +1,5 @@
+// codigo que mostra o valor total de uma compra a vista, a prazo e o valor total
+
 programa {
   funcao inicio() {
 
