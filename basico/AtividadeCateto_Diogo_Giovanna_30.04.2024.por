@@ -1,3 +1,5 @@
+//codigo para calcular a hipotenusa 
+
 programa
 {
 	inclua biblioteca Matematica --> mat
