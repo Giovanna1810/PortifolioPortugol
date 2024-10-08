@@ -1,3 +1,5 @@
+//codigo para calcular a area de um losango
+
 programa
 {
 	
