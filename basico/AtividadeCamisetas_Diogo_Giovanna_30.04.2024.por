@@ -1,3 +1,5 @@
+//codigo para calcular quantidade de camisetas
+
 programa
 {
 	
