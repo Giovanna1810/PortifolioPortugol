@@ -1,3 +1,5 @@
+//codigo para calcular area de um quadrado
+
 programa
 {
 	
